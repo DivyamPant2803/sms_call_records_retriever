@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "867628811355",
+    "firebase_url": "https://sms-reciever-d5f1a.firebaseio.com",
+    "project_id": "sms-reciever-d5f1a",
+    "storage_bucket": "sms-reciever-d5f1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867628811355:android:8c477e981f8ea7d7c62b7e",
+        "android_client_info": {
+          "package_name": "com.example.smsreciever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867628811355-lt0fmjf8qvtorsl0s5j6h8ch2j4rkqd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfIUPMdromAnjFyB7YsJkBSbpGl8WYLN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867628811355-lt0fmjf8qvtorsl0s5j6h8ch2j4rkqd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
